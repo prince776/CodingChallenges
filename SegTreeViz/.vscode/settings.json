@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.completion.filteredTypes" : [
+        "java.awt.List",
+        "com.sun.*"
+    ],
+}
